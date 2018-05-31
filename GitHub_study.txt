@@ -1,1 +1,4 @@
-https://blog.csdn.net/Hanani_Jia/article/details/77950594
+GitHub小白教程：https://blog.csdn.net/Hanani_Jia/article/details/77950594
+阿吉推荐的新弹窗插件SWEET （兼容PC+web，可代替layer）：http://mishengqiang.com/sweetalert/
+阿吉推荐的制图标插件echarts (很酷炫的插件,可用于后台)：http://echarts.baidu.com/
+echarts学习文档：http://echarts.baidu.com/tutorial.html#5%20%E5%88%86%E9%92%9F%E4%B8%8A%E6%89%8B%20ECharts
