@@ -8,3 +8,4 @@ ThinkPHP表达式查询详解：http://www.jb51.net/article/92628.html
 Ajax异步请求改为同步请求说明：https://blog.csdn.net/yanfangphp/article/details/8261333
 动画css：https://daneden.github.io/animate.css
 微信公众号接口文档：https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421141115
+three.js:  https://threejs.org/
